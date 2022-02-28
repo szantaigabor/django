@@ -1,0 +1,2 @@
+# django
+tanulási elvileg
